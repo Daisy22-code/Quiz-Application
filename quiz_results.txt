@@ -1,0 +1,36 @@
+=====================================
+Quiz Completed!
+Topic: Arrays
+Total Questions: 10
+Correct Answers: 6
+Wrong Answers: 4
+Final Score: 6/10
+=====================================
+
+=====================================
+Quiz Completed!
+Topic: Conditionals
+Total Questions: 10
+Correct Answers: 2
+Wrong Answers: 8
+Final Score: 2/10
+=====================================
+
+=====================================
+Quiz Completed!
+Topic: Section B: Loops Quiz
+Total Questions: 10
+Correct Answers: 4
+Wrong Answers: 6
+Final Score: 4/10
+=====================================
+
+=====================================
+Quiz Completed!
+Topic: Methods
+Total Questions: 10
+Correct Answers: 3
+Wrong Answers: 7
+Final Score: 3/10
+=====================================
+
